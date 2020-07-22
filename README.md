@@ -1,2 +1,2 @@
-# -CountdownTimer_promtsMessage
+# CountdownTimer_promtsMessage
 🏅 Weekly Code Battle - Week 7                             
